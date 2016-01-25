@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/glebsabirzanov/Documents/Code/Android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/glebsabirzanov/Documents/Code/Android/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/glebsabirzanov/Documents/Code/Android/CirclesSquares/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/glebsabirzanov/Documents/Code/Android/CirclesSquares/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]

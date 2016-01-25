@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/glebsabirzanov/Documents/Code/Android/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/glebsabirzanov/Documents/Code/Android/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/glebsabirzanov/Documents/Code/Android/app/build/intermediates/res/merged/debug/menu/your__drawing.xml",
+        "source": "/Users/glebsabirzanov/Documents/Code/Android/app/src/main/res/menu/your__drawing.xml"
+    },
+    {
+        "merged": "/Users/glebsabirzanov/Documents/Code/Android/CirclesSquares/app/build/intermediates/res/merged/debug/menu/your__drawing.xml",
+        "source": "/Users/glebsabirzanov/Documents/Code/Android/CirclesSquares/app/src/main/res/menu/your__drawing.xml"
+    },
+    {
+        "merged": "/Users/glebsabirzanov/Documents/Code/Android/CirclesSquares/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/glebsabirzanov/Documents/Code/Android/CirclesSquares/app/src/main/res/menu/main.xml"
+    }
+]

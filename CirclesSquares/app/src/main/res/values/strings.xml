@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CirclesSqares</string>
+    <string name="action_settings">Settings</string>
+    <string name="hintColor">Enter the color (hex)</string>
+    <string name="circle">Circle</string>
+    <string name="square">Square</string>
+    <string name="line">Line</string>
+    <string name="draw">Let\'s draw this s**t!</string>
+    <string name="title_activity_your__drawing">YOUR Drawing</string>
+    <string name="action_back">Back</string>
+    <string name="coords">x: %1$d y: %2$d</string>
+
+</resources>
